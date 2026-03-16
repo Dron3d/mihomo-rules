@@ -1,6 +1,6 @@
 name: Generate Rules
 on:
-  workflow_dispatch: # Оставляем ТОЛЬКО ручной запуск
+  workflow_dispatch:
 
 jobs:
   build:
@@ -10,7 +10,7 @@ jobs:
 
       - name: Download and Clean
         run: |
-          # Скачиваем оригинал, удаляем пробелы, мусор и пустые строки
+          # Скачиваем оригинал, удаляем пробелы и пустые строки
           curl -sL https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Services/youtube.lst | sed 's/[[:space:]]//g' | grep -v '^$' > youtube.txt
 
       - name: Create YAML format
@@ -20,18 +20,24 @@ jobs:
 
       - name: Install Mihomo and Convert to MRS
         run: |
-          # Качаем актуальный бинарник для конвертации
-          curl -L -o mihomo.tar.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-linux-amd64-v1.18.9.tar.gz
+          # Автоматически находим ссылку на последний релиз для linux-amd64
+          LATEST_URL=$(curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases/latest | grep "browser_download_url.*linux-amd64-v.*tar.gz" | head -n 1 | cut -d '"' -f 4)
+          echo "Downloading from: $LATEST_URL"
+          curl -L -o mihomo.tar.gz "$LATEST_URL"
+          
+          # Распаковываем
           tar -xzf mihomo.tar.gz
+          # Файл внутри может называться по-разному, находим его и переименовываем в 'mihomo'
+          mv mihomo-linux-amd64* mihomo 2>/dev/null || mv ./mihomo-linux-amd64 ./mihomo 2>/dev/null
           chmod +x mihomo
-          # Генерируем бинарный файл MRS
+          
+          # Конвертируем
           ./mihomo convert-ruleset domain text youtube.txt youtube.mrs
 
       - name: Push changes
         run: |
           git config --global user.name "Dron3d-Bot"
           git config --global user.email "action@github.com"
-          # Сохраняем и YAML, и MRS в твой репозиторий
           git add youtube.yaml youtube.mrs
           git commit -m "Manual update: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
