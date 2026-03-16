@@ -1,268 +1,269 @@
-DOMAIN-SUFFIX,api.facebook.com
-DOMAIN-SUFFIX,attachment.fbsbx.com
-DOMAIN-SUFFIX,b-graph.facebook.com
-DOMAIN-SUFFIX,chat-e2ee-mini.facebook.com
-DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,edge-mqtt-shv-01-hel3.facebook.com
-DOMAIN-SUFFIX,edge-mqtt-shv-02-frt3.facebook.com
-DOMAIN-SUFFIX,edge-mqtt.facebook.com
-DOMAIN-SUFFIX,edge-oculus-shv-01-amt2.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-any2.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-arn2.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-cdg2.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-gig2.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-lga3.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-mia3.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-mxp1.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-sea1.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-vie1.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-01-yyz1.fbcdn.net
-DOMAIN-SUFFIX,edge-oculus-shv-02-bom1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-amt2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-arn2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-ber1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bog1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bom1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bos3.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bru2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-cdt1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-cph2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-del1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-dus1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-eze1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-fco1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-for1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-gig2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-gmp1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-gru1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-hel2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-itm1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-jnb1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-kut2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-lga3.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-lim1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-lis1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-los2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-maa2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mad1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mia3.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mrs2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-msp1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mxp1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-nrt1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-ort2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-prg1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-qro1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-scl1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-scl2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-sea1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-sju1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-sof1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-syd2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-tpe1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-vie1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-xsp1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-01-yyz1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-02-arn2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-02-bom1.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-02-gru2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-02-kut2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-02-maa2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-02-mrs2.fbcdn.net
-DOMAIN-SUFFIX,edge-sonar-mini-shv-02-ort2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-amt2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-any2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-arn2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-ber1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-bog1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-bru2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-cdg2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-cdt1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-cgk1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-dus1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-eze1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-fco1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-gig2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-gmp1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-gru2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-hel2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-hkt1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-kut2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-lga3.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-mad1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-mia3.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-mrs2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-msp1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-mxp1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-nrt1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-ort2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-otp1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-prg1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-sea1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-sof1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-syd2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-tpe1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-vie1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-waw1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-xsp1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-01-yyz1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-02-arn2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-02-bom1.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-02-kut2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-02-mia3.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-02-mrs2.fbcdn.net
-DOMAIN-SUFFIX,edge-video-shv-02-ort2.fbcdn.net
-DOMAIN-SUFFIX,embed.fbsbx.com
-DOMAIN-SUFFIX,external-lhr10-1.xx.fbcdn.net
-DOMAIN-SUFFIX,external-lhr6-1.xx.fbcdn.net
-DOMAIN-SUFFIX,external-otp1-1.xx.fbcdn.net
-DOMAIN-SUFFIX,external.fbeg10-1.fna.fbcdn.net
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,facebook.com.es
-DOMAIN-SUFFIX,facebook.com.vn
-DOMAIN-SUFFIX,facebook.fr
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fna-fbcdn-shv-01-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-01-ffjr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-01-fktw1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-01-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-02-fagc1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-02-fbed1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-02-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-02-fdet1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-02-ffjr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-02-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-03-fblr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-03-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-03-ffjr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-03-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-04-fblr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-04-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-04-ffjr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-shv-04-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fccu4.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fdet1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-02-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-02-fdet1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-02-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-03-fblr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-03-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-03-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-04-fblr1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-04-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-video-shv-04-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-01-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-02-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-02-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-03-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-04-fdel1.fbcdn.net
-DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-04-fmaa1.fbcdn.net
-DOMAIN-SUFFIX,gateway.facebook.com
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,interncache-vll.fbcdn.net
-DOMAIN-SUFFIX,lookaside.facebook.com
-DOMAIN-SUFFIX,lookaside.fbsbx.com
-DOMAIN-SUFFIX,m.beta.facebook.com
-DOMAIN-SUFFIX,m.facebook.com
-DOMAIN-SUFFIX,m.fbjs.facebook.com
-DOMAIN-SUFFIX,origincache-shv-01-rash0.fbcdn.net
-DOMAIN-SUFFIX,origincache-shv-01-ratn0.fbcdn.net
-DOMAIN-SUFFIX,origincache-shv-01-rcln0.fbcdn.net
-DOMAIN-SUFFIX,origincache-shv-01-rftw0.fbcdn.net
-DOMAIN-SUFFIX,origincache-shv-01-rlla0.fbcdn.net
-DOMAIN-SUFFIX,payments-graph.facebook.com
-DOMAIN-SUFFIX,ru-ru.facebook.com
-DOMAIN-SUFFIX,s.fb.com
-DOMAIN-SUFFIX,scontent-frt3-1.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent-frt3-2.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent-frx5-1.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent-frx5-2.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent-otp1-1.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent-sof1-1.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent-sof1-2.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent.fbeg10-1.fna.fbcdn.net
-DOMAIN-SUFFIX,secure.facebook.com
-DOMAIN-SUFFIX,secure.my-od.facebook.com
-DOMAIN-SUFFIX,star.c10r.facebook.com
-DOMAIN-SUFFIX,static-exp1.licdn.com
-DOMAIN-SUFFIX,static-otp1-1.xx.fbcdn.net
-DOMAIN-SUFFIX,static.fbeg10-1.fna.fbcdn.net
-DOMAIN-SUFFIX,static.xx.fbcdn.net
-DOMAIN-SUFFIX,tfbnw.net
-DOMAIN-SUFFIX,thefacebook.com
-DOMAIN-SUFFIX,touch.beta.facebook.com
-DOMAIN-SUFFIX,traffic-nts-ip-assoc.xy.fbcdn.net
-DOMAIN-SUFFIX,traffic-nts-ip-assoc.xz.fbcdn.net
-DOMAIN-SUFFIX,video-frt3-1.xx.fbcdn.net
-DOMAIN-SUFFIX,video-frt3-2.xx.fbcdn.net
-DOMAIN-SUFFIX,video-frx5-1.xx.fbcdn.net
-DOMAIN-SUFFIX,video-frx5-2.xx.fbcdn.net
-DOMAIN-SUFFIX,video.xx.fbcdn.net
-DOMAIN-SUFFIX,watch.facebook.com
-DOMAIN-SUFFIX,web.facebook.com
-DOMAIN-SUFFIX,www.dev.facebook.com
-DOMAIN-SUFFIX,www.facebook.com
-DOMAIN-SUFFIX,www.facebook.com.vn
-DOMAIN-SUFFIX,www.fbcdn.net
-DOMAIN-SUFFIX,www.fbjs.facebook.com
-DOMAIN-SUFFIX,www.my-od.facebook.com
-DOMAIN-SUFFIX,www.ru-ru.facebook.com
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-amt2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-any2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-arn2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-atl3.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-ber1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-bog1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-bom1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-bru2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-cdg2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-cdt1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-dus1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-eze1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-fco1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-gig2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-gmp1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-gru1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-gru2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-hel2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-hkt1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-iad3.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-kut2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-lga3.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-maa2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-mad1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-mia3.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-mrs2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-msp1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-mxp1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-nrt1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-ort2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-otp1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-prg1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-qro1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-scl1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-scl2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-sea1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-sof1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-syd2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-tpe1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-vie1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-waw1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-xsp1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-01-yyz1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-arn2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-bom1.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-gru2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-kut2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-maa2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-mia3.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-mrs2.fbcdn.net
-DOMAIN-SUFFIX,xx-fbcdn-shv-02-ort2.fbcdn.net
-DOMAIN-SUFFIX,xx.fbcdn.net
-DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com
+payload:
+  - DOMAIN-SUFFIX,api.facebook.com
+  - DOMAIN-SUFFIX,attachment.fbsbx.com
+  - DOMAIN-SUFFIX,b-graph.facebook.com
+  - DOMAIN-SUFFIX,chat-e2ee-mini.facebook.com
+  - DOMAIN-SUFFIX,connect.facebook.net
+  - DOMAIN-SUFFIX,edge-mqtt-shv-01-hel3.facebook.com
+  - DOMAIN-SUFFIX,edge-mqtt-shv-02-frt3.facebook.com
+  - DOMAIN-SUFFIX,edge-mqtt.facebook.com
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-amt2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-any2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-arn2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-cdg2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-gig2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-lga3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-mia3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-mxp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-sea1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-vie1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-01-yyz1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-oculus-shv-02-bom1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-amt2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-arn2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-ber1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bog1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bom1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bos3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-bru2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-cdt1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-cph2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-del1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-dus1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-eze1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-fco1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-for1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-gig2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-gmp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-gru1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-hel2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-itm1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-jnb1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-kut2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-lga3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-lim1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-lis1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-los2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-maa2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mad1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mia3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mrs2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-msp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-mxp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-nrt1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-ort2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-prg1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-qro1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-scl1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-scl2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-sea1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-sju1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-sof1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-syd2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-tpe1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-vie1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-xsp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-01-yyz1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-02-arn2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-02-bom1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-02-gru2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-02-kut2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-02-maa2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-02-mrs2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-sonar-mini-shv-02-ort2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-amt2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-any2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-arn2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-ber1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-bog1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-bru2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-cdg2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-cdt1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-cgk1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-dus1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-eze1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-fco1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-gig2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-gmp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-gru2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-hel2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-hkt1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-kut2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-lga3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-mad1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-mia3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-mrs2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-msp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-mxp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-nrt1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-ort2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-otp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-prg1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-sea1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-sof1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-syd2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-tpe1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-vie1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-waw1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-xsp1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-01-yyz1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-02-arn2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-02-bom1.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-02-kut2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-02-mia3.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-02-mrs2.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video-shv-02-ort2.fbcdn.net
+  - DOMAIN-SUFFIX,embed.fbsbx.com
+  - DOMAIN-SUFFIX,external-lhr10-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,external-lhr6-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,external-otp1-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,external.fbeg10-1.fna.fbcdn.net
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.com.es
+  - DOMAIN-SUFFIX,facebook.com.vn
+  - DOMAIN-SUFFIX,facebook.fr
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbsbx.com
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-01-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-01-ffjr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-01-fktw1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-01-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-02-fagc1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-02-fbed1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-02-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-02-fdet1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-02-ffjr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-02-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-03-fblr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-03-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-03-ffjr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-03-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-04-fblr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-04-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-04-ffjr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-shv-04-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fccu4.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fdet1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-01-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-02-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-02-fdet1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-02-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-03-fblr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-03-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-03-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-04-fblr1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-04-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-video-shv-04-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-01-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-02-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-02-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-03-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-04-fdel1.fbcdn.net
+  - DOMAIN-SUFFIX,fna-fbcdn-z-m-shv-04-fmaa1.fbcdn.net
+  - DOMAIN-SUFFIX,gateway.facebook.com
+  - DOMAIN-SUFFIX,graph.facebook.com
+  - DOMAIN-SUFFIX,interncache-vll.fbcdn.net
+  - DOMAIN-SUFFIX,lookaside.facebook.com
+  - DOMAIN-SUFFIX,lookaside.fbsbx.com
+  - DOMAIN-SUFFIX,m.beta.facebook.com
+  - DOMAIN-SUFFIX,m.facebook.com
+  - DOMAIN-SUFFIX,m.fbjs.facebook.com
+  - DOMAIN-SUFFIX,origincache-shv-01-rash0.fbcdn.net
+  - DOMAIN-SUFFIX,origincache-shv-01-ratn0.fbcdn.net
+  - DOMAIN-SUFFIX,origincache-shv-01-rcln0.fbcdn.net
+  - DOMAIN-SUFFIX,origincache-shv-01-rftw0.fbcdn.net
+  - DOMAIN-SUFFIX,origincache-shv-01-rlla0.fbcdn.net
+  - DOMAIN-SUFFIX,payments-graph.facebook.com
+  - DOMAIN-SUFFIX,ru-ru.facebook.com
+  - DOMAIN-SUFFIX,s.fb.com
+  - DOMAIN-SUFFIX,scontent-frt3-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,scontent-frt3-2.xx.fbcdn.net
+  - DOMAIN-SUFFIX,scontent-frx5-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,scontent-frx5-2.xx.fbcdn.net
+  - DOMAIN-SUFFIX,scontent-otp1-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,scontent-sof1-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,scontent-sof1-2.xx.fbcdn.net
+  - DOMAIN-SUFFIX,scontent.fbeg10-1.fna.fbcdn.net
+  - DOMAIN-SUFFIX,secure.facebook.com
+  - DOMAIN-SUFFIX,secure.my-od.facebook.com
+  - DOMAIN-SUFFIX,star.c10r.facebook.com
+  - DOMAIN-SUFFIX,static-exp1.licdn.com
+  - DOMAIN-SUFFIX,static-otp1-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,static.fbeg10-1.fna.fbcdn.net
+  - DOMAIN-SUFFIX,static.xx.fbcdn.net
+  - DOMAIN-SUFFIX,tfbnw.net
+  - DOMAIN-SUFFIX,thefacebook.com
+  - DOMAIN-SUFFIX,touch.beta.facebook.com
+  - DOMAIN-SUFFIX,traffic-nts-ip-assoc.xy.fbcdn.net
+  - DOMAIN-SUFFIX,traffic-nts-ip-assoc.xz.fbcdn.net
+  - DOMAIN-SUFFIX,video-frt3-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,video-frt3-2.xx.fbcdn.net
+  - DOMAIN-SUFFIX,video-frx5-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,video-frx5-2.xx.fbcdn.net
+  - DOMAIN-SUFFIX,video.xx.fbcdn.net
+  - DOMAIN-SUFFIX,watch.facebook.com
+  - DOMAIN-SUFFIX,web.facebook.com
+  - DOMAIN-SUFFIX,www.dev.facebook.com
+  - DOMAIN-SUFFIX,www.facebook.com
+  - DOMAIN-SUFFIX,www.facebook.com.vn
+  - DOMAIN-SUFFIX,www.fbcdn.net
+  - DOMAIN-SUFFIX,www.fbjs.facebook.com
+  - DOMAIN-SUFFIX,www.my-od.facebook.com
+  - DOMAIN-SUFFIX,www.ru-ru.facebook.com
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-amt2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-any2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-arn2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-atl3.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-ber1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-bog1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-bom1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-bru2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-cdg2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-cdt1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-dus1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-eze1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-fco1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-gig2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-gmp1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-gru1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-gru2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-hel2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-hkt1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-iad3.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-kut2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-lga3.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-maa2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-mad1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-mia3.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-mrs2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-msp1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-mxp1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-nrt1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-ort2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-otp1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-prg1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-qro1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-scl1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-scl2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-sea1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-sof1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-syd2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-tpe1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-vie1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-waw1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-xsp1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-01-yyz1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-arn2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-bom1.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-gru2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-kut2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-maa2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-mia3.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-mrs2.fbcdn.net
+  - DOMAIN-SUFFIX,xx-fbcdn-shv-02-ort2.fbcdn.net
+  - DOMAIN-SUFFIX,xx.fbcdn.net
+  - DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com  
