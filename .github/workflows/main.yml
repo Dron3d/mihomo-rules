@@ -5,6 +5,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: # Даем права на запись в репозиторий
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
@@ -19,16 +21,21 @@ jobs:
           sed "s/^/  - '/;s/$/'/" youtube.txt >> youtube.yaml
 
       - name: Install Mihomo and Convert to MRS
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          # Прямая ссылка на скачивание актуальной версии без использования API
-          # Скачиваем версию для linux-amd64 (совместимая v1 версия)
-          curl -L -o mihomo.gz "https://github.com/MetaCubeX/mihomo/releases/latest/download/mihomo-linux-amd64-compatible.gz"
+          # Используем официальный CLI GitHub для скачивания последней версии
+          # Ищем файл для linux-amd64 (формат .gz)
+          gh release download --repo MetaCubeX/mihomo --pattern "mihomo-linux-amd64-compatible-*.gz"
           
-          # Распаковываем (это просто сжатый исполняемый файл, а не tar-архив)
-          gunzip mihomo.gz
+          # Распаковываем скачанный файл (имя будет содержать версию, используем *)
+          gunzip mihomo-linux-amd64-compatible-*.gz
+          
+          # Переименовываем в короткое 'mihomo' для удобства
+          mv mihomo-linux-amd64-compatible-* mihomo
           chmod +x mihomo
           
-          # Конвертируем текстовый список в бинарный MRS
+          # Конвертируем
           ./mihomo convert-ruleset domain text youtube.txt youtube.mrs
 
       - name: Push changes
@@ -36,6 +43,5 @@ jobs:
           git config --global user.name "Dron3d-Bot"
           git config --global user.email "action@github.com"
           git add youtube.yaml youtube.mrs
-          # Если изменений нет, скрипт не упадет (exit 0)
           git commit -m "Manual update: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
