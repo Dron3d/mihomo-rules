@@ -125,7 +125,7 @@ payload:
   - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,xfree.com
-    - DOMAIN-SUFFIX,ggpht.cn
+  - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,hqporner.com
   - DOMAIN-SUFFIX,attachments.f95zone.to
@@ -170,4 +170,8 @@ payload:
   - DOMAIN-SUFFIX,nude-moon.org
   - DOMAIN-SUFFIX,realbooru.com
   - DOMAIN-SUFFIX,freeones.com
+  - DOMAIN-SUFFIX,www.ashemaletube.com
+  - DOMAIN-SUFFIX,cdn77-t.ashemaletube.com
+  - DOMAIN-SUFFIX,cc.ashemaletube.com
+  - DOMAIN-SUFFIX,cdn77.ashemaletube.com
   
